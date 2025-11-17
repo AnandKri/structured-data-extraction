@@ -17,13 +17,13 @@ A Python project for extracting structured data (like invoice fields) from unstr
 ## Project Structure
 
 .
-├── Sample PDFs/                     # Test PDFs
-├── PDFdataExtraction_ollama.py      # Main extraction script using Ollama
-├── util.py                          # Helper function, schema and class
-├── extracted_invoice_data.xlsx      # Output file
-├── requirements.txt                 # Python dependencies
-├── .gitignore
-└── README.md                        # Documentation
+├── Sample PDFs/                     
+├── PDFdataExtraction_ollama.py      
+├── util.py                          
+├── extracted_invoice_data.xlsx      
+├── requirements.txt                 
+├── .gitignore  
+└── README.md  
 
 
 ---
